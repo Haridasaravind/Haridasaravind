@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>  Hey there! I'm Haridas Aravind </h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+🤔 &nbsp; Exploring new technologies and developing web apps.
+🎓 &nbsp; Graduated with Master's degree in Computer Science and Engineering.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+
+🌐 &nbsp;!HTML5!CSS!JavaScript!Bootstrap!Node.js!React
+🛢 &nbsp;!MySQL!MongoDB
+⚙️ &nbsp;!Git!GitHub
+🔧 &nbsp;!Visual Studio Code
+
+<br/>
+
+
+
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/haridasaravind/"><img src="https://img.shields.io/badge/-haridasaravind-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aravindabhi12@gmail.com"><img src="https://img.shields.io/badge/-aravindabhi12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
