@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎓 &nbsp; Graduated with Master's degree in Computer Science and Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+Java | Python | Sailpoint |Sailpoint Identity IIQ & IDN 
 
 🌐 &nbsp;!HTML5!CSS!JavaScript!Bootstrap!Node.js!React
 🛢 &nbsp;!MySQL!MongoDB
