@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+   Senior SailPoint IIQ & IDN Engineer | Identity & Access Management | Cyber Security | Azure AD | Okta
+
 🤔 &nbsp; Exploring new technologies and developing web apps.
 🎓 &nbsp; Graduated with Master's degree in Computer Science and Engineering.
 
