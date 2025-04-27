@@ -20,18 +20,19 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-   Senior SailPoint IIQ & IDN Engineer | Identity & Access Management | Cyber Security | Azure AD | Okta
+  🚀 SAP BODS Consultant | SAP Data Migration Specialist | SAP S/4HANA | ETL Expert | SAP HANA | Data Integration | Data Management | SAP Data Services 🔄
 
-🤔 &nbsp; Exploring new technologies and developing web apps.
-🎓 &nbsp; Graduated with Master's degree in Computer Science and Engineering.
+🔹 As an SAP BODS and Data Migration Consultant, I specialize in end-to-end SAP S/4HANA migrations, ETL development, and data integration projects. With 6+ years of experience, I have successfully designed, implemented, and optimized SAP Data Services (BODS) solutions to enable seamless data movement, transformation, and governance for global enterprises.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-Java | Python | Sailpoint |Sailpoint Identity IIQ & IDN 
+🔹 Core Expertise:
 
-🌐 &nbsp;!HTML5!CSS!JavaScript!Bootstrap!Node.js!React
-🛢 &nbsp;!MySQL!MongoDB
-⚙️ &nbsp;!Git!GitHub
-🔧 &nbsp;!Visual Studio Code
+✔ SAP Data Migration – Leading full-cycle SAP ECC to S/4HANA migration projects, using SAP BODS and LTMC for Finance, Supply Chain, and Customer Master data. ✔ ETL Development & Optimization – Building scalable, high-performance ETL jobs in SAP BODS, ensuring data accuracy, cleansing, and transformation. ✔ SAP HANA Data Integration – Integrating structured and unstructured data into SAP HANA environments to support real-time analytics and reporting. ✔ Data Quality & Governance – Implementing best practices for data validation, profiling, cleansing, and enrichment to maintain high data integrity. ✔ Cross-System Integration – Experience integrating SAP systems with non-SAP sources like Oracle, SQL Server, Salesforce, and flat files.
+
+📊 Key Achievements: ✅ Delivered 10+ successful SAP S/4HANA migration projects with 99.9% data accuracy and minimal downtime. ✅ Optimized ETL workflows to improve data loading performance by 40%, reducing batch processing windows. ✅ Built robust data reconciliation frameworks, helping clients achieve audit-ready data and regulatory compliance.
+
+💡 Let’s connect! If your organization is planning SAP data migration, system upgrades, or looking to optimize ETL processes with SAP BODS, I’d love to collaborate and help drive your data success journey! 🚀
+
+Thank you for visiting my profile.
 
 <br/>
 
