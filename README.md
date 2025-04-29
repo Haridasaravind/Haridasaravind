@@ -20,27 +20,21 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  🚀 SAP BODS Consultant | SAP Data Migration Specialist | SAP S/4HANA | ETL Expert | SAP HANA | Data Integration | Data Management | SAP Data Services 🔄
+  🚀🚀 As an experienced Software and DevOps Engineer with a Master's degree in Computer Science, I bring a robust set of skills in web development, database management, cloud platforms, and data mining. My professional journey has allowed me to work in various capacities - as a Systems Engineer at NielsenIQ (TCS), India, and as a DevOps Engineer at innData Analytics Private Limited, India. Currently, I'm applying my skill set as a Student Assistant Developer at the University of Massachusetts, Boston. My passion for technology and problem-solving drives me to continually adapt, learn, and contribute to the dynamic field of Computer Science.
 
-🔹 As an SAP BODS and Data Migration Consultant, I specialize in end-to-end SAP S/4HANA migrations, ETL development, and data integration projects. With 6+ years of experience, I have successfully designed, implemented, and optimized SAP Data Services (BODS) solutions to enable seamless data movement, transformation, and governance for global enterprises.
+Technical Skills 
+Programming Language(s): Java, Python, Scala, Shell Scripting
+Operating Systems: Linux, Mac OS, Windows.
+Database: PostgreSql, MsSQL Server, Oracle, DB2.
+Cloud Platforms: AWS(EC2, Lambda, S3, API Gateway), MS Azure(Databricks, Virtual 
+ Machies, Key vault), Google Cloud(App Engine)
+Web Framework: Spring, Spring Boot, Flask 🚀
 
-🔹 Core Expertise:
-
-✔ SAP Data Migration – Leading full-cycle SAP ECC to S/4HANA migration projects, using SAP BODS and LTMC for Finance, Supply Chain, and Customer Master data. ✔ ETL Development & Optimization – Building scalable, high-performance ETL jobs in SAP BODS, ensuring data accuracy, cleansing, and transformation. ✔ SAP HANA Data Integration – Integrating structured and unstructured data into SAP HANA environments to support real-time analytics and reporting. ✔ Data Quality & Governance – Implementing best practices for data validation, profiling, cleansing, and enrichment to maintain high data integrity. ✔ Cross-System Integration – Experience integrating SAP systems with non-SAP sources like Oracle, SQL Server, Salesforce, and flat files.
-
-📊 Key Achievements: ✅ Delivered 10+ successful SAP S/4HANA migration projects with 99.9% data accuracy and minimal downtime. ✅ Optimized ETL workflows to improve data loading performance by 40%, reducing batch processing windows. ✅ Built robust data reconciliation frameworks, helping clients achieve audit-ready data and regulatory compliance.
-
-💡 Let’s connect! If your organization is planning SAP data migration, system upgrades, or looking to optimize ETL processes with SAP BODS, I’d love to collaborate and help drive your data success journey! 🚀
-
+Thank you for visiting my profile.
 Thank you for visiting my profile.
 
 <br/>
-
-
-
-
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
