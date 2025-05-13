@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  🚀🚀 As an experienced Software and DevOps Engineer with a Master's degree in Computer Science, I bring a robust set of skills in web development, database management, cloud platforms, and data mining. My professional journey has allowed me to work in various capacities - as a Systems Engineer at NielsenIQ (TCS), India, and as a DevOps Engineer at innData Analytics Private Limited, India. Currently, I'm applying my skill set as a Student Assistant Developer at the University of Massachusetts, Boston. My passion for technology and problem-solving drives me to continually adapt, learn, and contribute to the dynamic field of Computer Science.
+  🚀🚀 As an experienced Software and with a Master's degree in Computer Science, I bring a robust set of skills in web development, database management, cloud platforms, and data mining. My professional journey has allowed me to work in various capacities - as a Systems Engineer at NielsenIQ (TCS), India, and as a DevOps Engineer at innData Analytics Private Limited, India. Currently, I'm applying my skill set as a Student Assistant Developer at the University of Massachusetts, Boston. My passion for technology and problem-solving drives me to continually adapt, learn, and contribute to the dynamic field of Computer Science.
 
 Technical Skills 
 Programming Language(s): Java, Python, Scala, Shell Scripting
