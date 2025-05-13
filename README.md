@@ -38,7 +38,6 @@ Thank you for visiting my profile.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/haridasaravind/"><img src="https://img.shields.io/badge/-haridasaravind-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aravindabhi12@gmail.com"><img src="https://img.shields.io/badge/-aravindabhi12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/Aravind_haridas/">LeetCode Profile</a>
 </p>
