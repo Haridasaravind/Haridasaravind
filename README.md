@@ -59,5 +59,6 @@ Web Framework: Spring, Spring Boot, Flask 🚀
 <a href="mailto:aravindabhi12@gmail.com"><img src="https://img.shields.io/badge/-aravindabhi12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/Aravind_haridas/">LeetCode Profile</a>
 
-  
+<!-- Visitor Count -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Divyeshpratap&label=Profile%20views&color=FF5733&style=flat)
 </p>
