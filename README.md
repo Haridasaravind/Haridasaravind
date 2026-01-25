@@ -34,8 +34,6 @@ Thank you for visiting my profile.
 
 <br/>
 <br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 
 ## 🧠 What I Focus On
 - Clean, maintainable code
@@ -44,6 +42,7 @@ Thank you for visiting my profile.
 - Performance optimization
 - Writing code that scales and is easy to reason about
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
 <p align="left">
