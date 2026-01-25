@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Haridasaravind/Haridasaravind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +36,19 @@ Thank you for visiting my profile.
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+
+## 🧠 What I Focus On
+- Clean, maintainable code
+- Backend system design & APIs
+- Data modeling and analytics pipelines
+- Performance optimization
+- Writing code that scales and is easy to reason about
+
+
+
 <p align="left">
 <a href="mailto:aravindabhi12@gmail.com"><img src="https://img.shields.io/badge/-aravindabhi12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/Aravind_haridas/">LeetCode Profile</a>
+
+  
 </p>
