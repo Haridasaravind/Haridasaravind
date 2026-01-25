@@ -52,13 +52,17 @@ Web Framework: Spring, Spring Boot, Flask 🚀
 - Writing code that scales and is easy to reason about
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+## 📫 Connect With Me
 
 <p align="left">
 <a href="mailto:aravindabhi12@gmail.com"><img src="https://img.shields.io/badge/-aravindabhi12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:aravind.haridas001@umb.edu"><img src="https://img.shields.io/badge/-aravind.haridas001@umb.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/Aravind_haridas/">LeetCode Profile</a>
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haridasaravind123/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/haridasaravind)
+
 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=Divyeshpratap&label=Profile%20views&color=FF5733&style=flat)
